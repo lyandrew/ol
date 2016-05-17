@@ -1,5 +1,3 @@
-# OL
-
 OL is a REST API that will serve business data in JSON format. It uses [kaminari](https://github.com/amatsuda/kaminari) for pagination and rails for the api services.
 
 ### Endpoints
