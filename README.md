@@ -6,7 +6,7 @@ OL is a REST API that will serve business data in JSON format. It uses [kaminari
 
 ### Getting Started using Dockers
 
-**Tested using ruby 2.2.3, Docker 1.11.1, docker-compose 1.7.0*
+**Tested using ruby 2.2.3, Docker 1.11.1, docker-compose 1.7.0, Postgres 9.5*
  
 1) Ensure docker is installed: https://docs.docker.com/engine/installation/linux/ubuntulinux/
 ```sh
